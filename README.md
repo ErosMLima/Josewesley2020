@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi 👋 ! I'm José Wesley </h1>
+<h1 align="center"> Hi 👋 ! I'm Wesley </h1>
 
 <a href="https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611287949~hmac=24af74122e75aa40bfbde0736ed5d2e9" alt="josé-wesley-da-silva" height="30" width="40" /></a>
 
