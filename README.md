@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center"> Hi ! I'm José Wesley </h1>
+<h1 align="center"> Hi 👋 ! I'm José Wesley </h1>
 
 Iniciante no mundo do desenvolvimento;
 Apaixonando-me a cada dia pelo caminho que decidir traçar. 
