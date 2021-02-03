@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋 ! I'm Wesley </h1>
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611287949~hmac=24af74122e75aa40bfbde0736ed5d2e9" alt="josé-wesley-da-silva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-wesley-da-silva-220376200/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1612392830~hmac=72c965abce57958ad26009d9ae603554" alt="josé-wesley-da-silva" height="30" width="40" /></a>
 
 Iniciante no mundo do desenvolvimento; 
 
